@@ -1,0 +1,1 @@
+Gerencia as politicas do código do projeto e permite a execução de varias analises dele, em busca de vulnerabilidades e problemas com o código fonte além de alerta os envolvidos sobre qualquer problema encontrado.

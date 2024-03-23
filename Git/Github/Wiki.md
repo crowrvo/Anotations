@@ -1,0 +1,1 @@
+É um espaço dentro do github onde você pode detalhar e explicar detalhamente como sua aplicação funciona, limitações, tutoriais, guias de uso, Apis, regras de negócio e inúmeras outras informações que possam auxiliar outros desenvolvedores que irão usar ela, é o local ideal para fazer a documentação da sua aplicação com varias páginas e uma sidebar de navegação

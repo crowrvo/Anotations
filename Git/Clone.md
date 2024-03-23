@@ -1,0 +1,1 @@
+É quando você baixa um repositório online e trás até sua maquina local. (em casos de repositórios privados, requer [Autenticação](Autenticação.md))

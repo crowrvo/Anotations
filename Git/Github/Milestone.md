@@ -1,0 +1,1 @@
+Uma ferramenta útil para definir metas dentro de um contexto de desenvolvimento e também demonstrar seu progresso e prazo de conclusão.

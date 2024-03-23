@@ -1,0 +1,1 @@
+É uma Carreira a parte, Significa Desenvolvimento e Operação, é errado pedir isso para um desenvolvedor pois é uma carreira completa a parte, quando numa vaga de desenvolvimento, perguntam se você tem essa experiência, é focado na parte de publicação da aplicação, que é a parte inicial dessa carreira.

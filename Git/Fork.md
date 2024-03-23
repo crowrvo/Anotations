@@ -1,0 +1,1 @@
+É quando você copia o código de um repositório especifico em seu perfil do Github, Após a cópia, você pode alterar o que quiser, sem interferir no repositório original.

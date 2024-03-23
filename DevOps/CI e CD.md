@@ -1,0 +1,1 @@
+Significa Integração continua e Distribuição Continua, são os procedimentos de teste, upload, deploy  

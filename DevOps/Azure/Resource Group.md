@@ -1,0 +1,1 @@
+Utilizado para vincular as aplicações diferentes dentro de um mesmo contexto para que possam se comunicar entre se.

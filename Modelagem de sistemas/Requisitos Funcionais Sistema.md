@@ -1,0 +1,1 @@
+descreve de forma detalhada quais funções um sistema deverá ter, tais como entrada, saída e exceções, serviços e restrições. Um contrato envolvendo as partes, desenvolvedor e clientes, poderá conter uma documentação de requisitos de sistema que definirá o que, de fato, será implementado.

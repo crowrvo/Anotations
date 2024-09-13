@@ -1,0 +1,1 @@
+ competências socioemocionais relacionadas a conhecer a si mesmo, sabendo suas fraquezas e qualidades e onde é necessário melhorias

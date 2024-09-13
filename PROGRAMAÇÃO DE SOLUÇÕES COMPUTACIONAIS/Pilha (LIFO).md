@@ -1,0 +1,1 @@
+Last in, First Out, é como uma caixa com uma abertura única por cima, você vai colocar itens que são do tamanho exato da caixa e a única forma de remover algum item no fundo é removendo todos os que estão por cima.

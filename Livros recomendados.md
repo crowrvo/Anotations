@@ -1,0 +1,1 @@
+- Lógica matemática - Organizador Jeferson Afonso Lopes de Souza

@@ -1,0 +1,4 @@
+- Promove a integração dos saberes e dos conteúdos;
+- Desenvolve a autonomia intelectual dos estudantes através da Busca Ativa;
+- Tem início, meio e fim (por isto não necessita de pré-requisito);
+- Forma comunidades de aprendizagem ancorada na cooperação entre indivíduos.

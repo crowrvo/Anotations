@@ -1,0 +1,1 @@
+Quando é impossível que os dois valores sejam verdadeiros ao mesmo tempo

@@ -1,0 +1,1 @@
+O Ecossistema dessa plataforma foca o desenvolvimento pessoal de forma autônoma, fornecendo ao estudante a opção de desenvolver suas habilidades e conhecimentos de sua própria maneira e de forma adaptada a como o mercado de trabalho funciona, trazendo experiencias da própria área do curso e até mesmo de outras, ampliando a experiencia, as competências e o networking do aluno.

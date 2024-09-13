@@ -1,0 +1,1 @@
+Quando duas proposições tem ao menos um valor falso dessa forma resultando em Verdadeiro, agora quando ambos os valores são falsos, resulta em falso

@@ -1,0 +1,1 @@
+são declarações de linguagem natural, que podem ser combinadas com diagramas e que descrevem necessidades das partes interessadas em relação à solução proposta pelo software. Eles podem ser usados para descrever como um conjunto particular de usuários de uma solução irão interagir com ela e como um produto irá atender às necessidades de diferentes grupos de clientes.

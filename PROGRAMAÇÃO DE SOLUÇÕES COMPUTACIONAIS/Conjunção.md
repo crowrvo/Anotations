@@ -1,0 +1,1 @@
+Quando duas proposições são verdadeiras seu valor é verdadeiro, caso contrario ou qualquer uma delas tenha um falso, seu resultado é falso

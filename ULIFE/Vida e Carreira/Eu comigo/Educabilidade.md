@@ -1,0 +1,2 @@
+estratégias desenvolvidas ao longo da educação profissional, para que as pessoas possam modificar, melhorar suas maneiras de pensar, suas estruturas cognitivas.
+Em curtas palavras, "Aprender a Aprender"

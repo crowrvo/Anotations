@@ -1,0 +1,1 @@
+First in, First out - Igual uma fila de banco, quem chega primeiro, é atendido primeiro
